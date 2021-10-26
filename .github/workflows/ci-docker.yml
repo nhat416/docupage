@@ -2,7 +2,7 @@ name: Docker Build CI
 
 on:
   push:
-    branches: [ $default-branch ]
+    branches: 'main'
     tags: '*.*.*'
       
 jobs:
