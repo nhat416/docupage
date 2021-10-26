@@ -6,9 +6,9 @@ sidebar_position: 1
 
 Learn about **data science** and explore other data topics.
 
-## Getting Started
+## Introduction
 
-Get started by **creating a new site**.
+This app is meant to be used to bootstrap the DevOps pipeline. The purpose is not to focus on the app but the DevOps techniques.
 
 Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
