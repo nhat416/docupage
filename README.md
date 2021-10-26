@@ -1,5 +1,7 @@
+[![GitHub release](https://img.shields.io/github/release/docker/metadata-action.svg?style=flat-square)](https://github.com/nhat416/docupage/releases/latest)
+![Docker Build CI](https://github.com/nhat416/docupage/actions?workflow=ci-docker.yml/badge.svg)
+
 # DevOps Tutorial Docusaurus Webpage App
-![Docker Build CI](https://github.com/nhat416/docupage/actions/workflows/ci-docker.yml/badge.svg)
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
