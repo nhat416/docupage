@@ -34,7 +34,7 @@ jobs:
       
       - name: Build and Push
         run: docker buildx build --platform=linux/arm64,linux/amd64 --push -t nhat416/docupage:latest       with:
-          context: .
-          push: ${{ github.event_name != 'pull_request' }}
-          tags: ${{ steps.meta.outputs.tags }}
-          labels: ${{ steps.meta.outputs.labels }}
+          #context: .
+          #push: ${{ github.event_name != 'pull_request' }}
+          #tags: ${{ steps.meta.outputs.tags }}
+          #labels: ${{ steps.meta.outputs.labels }}
