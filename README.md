@@ -1,5 +1,5 @@
 [![GitHub release](https://img.shields.io/github/release/nhat416/docupage.svg?style=flat-square)](https://github.com/nhat416/docupage/releases/latest)
-![Docker Build CI](https://github.com/nhat416/docupage/actions?workflow=ci-docker.yml/badge.svg)
+![Docker Build CI](https://github.com/nhat416/docupage/actions/workflows/ci-docker.yml/badge.svg)
 
 # DevOps Tutorial Docusaurus Webpage App
 
