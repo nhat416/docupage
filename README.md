@@ -1,4 +1,5 @@
-# Website
+# DevOps Tutorial Docusaurus Webpage App
+[![Docker Build CI](https://github.com/nhat416/docupage/actions/workflows/ci-docker.yml/badge.svg)](https://github.com/nhat416/docupage/actions/workflows/ci-docker.yml)
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
